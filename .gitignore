@@ -2,3 +2,6 @@ dist
 .DS_Store
 *.egg-info
 auto_subtitle/__pycache__
+build/lib/auto_subtitle/__init__.py
+build/lib/auto_subtitle/cli.py
+build/lib/auto_subtitle/utils.py
